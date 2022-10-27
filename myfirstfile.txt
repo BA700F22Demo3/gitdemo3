@@ -1,3 +1,7 @@
 Add a first line
 
-Add a second line
+Add a second line.  Add a change to the second line.
+
+Add a third feature.
+
+Add a fourth feature.
